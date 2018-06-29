@@ -1,9 +1,0 @@
- default 255 255 255
- background 50 50 50
- highlight 255 255 0
- caret 255 255 255
- hashtagcomment 255 0 0
- '''stringliteral 160 200 100
-IMPORTANT 255 0 0
-AR 255 0 0
-TODO 180 20 255
