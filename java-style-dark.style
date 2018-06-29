@@ -1,0 +1,62 @@
+ default 240 240 240
+ stringliteral 255 50 50
+ background 50 50 50
+ highlight 255 255 0
+ caret 255 255 255
+ slashslashcomment 150 150 150
+ slashstarcomment 150 150 150
+ numberliteral 20 200 200
+ 
+void 20 150 20
+int 20 150 20
+long 20 150 20
+double 20 150 20
+float 20 150 20
+boolean 20 150 20
+char 20 150 20
+byte 20 150 20
+short 20 150 20
+
+public 120 150 255
+protected 120 150 255
+private 120 150 255
+default 120 150 255
+final 120 150 255
+native 120 150 255
+static 120 150 255
+throws 120 150 255
+transient 120 150 255
+volatile 120 150 255
+
+strictfp 180 10 255
+class 180 10 255
+enum 180 10 255
+interface 180 10 255
+return 180 10 255
+for 180 10 255
+if 180 10 255
+assert 180 10 255
+break 180 10 255
+switch 180 10 255
+case 180 10 255
+try 180 10 255
+catch 180 10 255
+finally 180 10 255
+continue 180 10 255
+do 180 10 255
+while 180 10 255
+else 180 10 255
+instanceof 180 10 255
+synchronized 180 10 255
+throw 180 10 255
+goto 180 10 255
+const 180 10 255
+
+extends 210 180 140
+implements 210 180 140
+new 210 180 140
+super 210 180 140
+this 210 180 140
+
+import 233 150 122
+package 233 150 122
